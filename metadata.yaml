@@ -1,0 +1,24 @@
+_repo: Textile-Fibers-used-in-Eastern-Aboriginal-North-America_52023
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitford, A. C.
+    gutenberg_agent_id: '46636'
+    url: http://www.gutenberg.org/2009/agents/46636
+description: ''
+gutenberg_issued: '2016-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52023'
+  lccn: '41022534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Textile fibers'
+- !lcsh 'Indian textile fabrics -- East (U.S.)'
+- !lcc 'E011'
+- GITenberg
+title: Textile Fibers used in Eastern Aboriginal North America
+url: http://www.gutenberg.org/ebooks/52023
